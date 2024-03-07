@@ -32,3 +32,7 @@ console.log(null ?? 100);
 **Another important property of these two operators is that the part to their right is evaluated only when necessary.**
 
 ## Reflections
+
+It is helpful that javascript converts the data in the operations to what it thinks it needs to make it work. but also you need to pay attention and apply safeguards so that it doesn't mess something up on accident that you didn't intend to happen.
+
+As far as the logical operators i don't believe i have seen the "??" but i imagine that is because it has less things you can do in a kinda classroom Assignment kinda way than && and || would be to make a problem about.
